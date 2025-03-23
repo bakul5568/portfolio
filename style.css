@@ -1,0 +1,154 @@
+.main{
+    margin: -10px;
+}
+.header{
+    background-color: rgb(2, 39, 40);
+    
+    
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+}
+.nav-u{
+    list-style: none;
+    display: flex;
+    justify-content:center;
+    margin-right: 10px;
+}
+.nav-u a {
+    text-decoration: none;
+    color:white;
+}
+.nav-u li{
+    margin-left: 20px; 
+    
+}
+.logo{
+    width: 120px;
+}
+.nav-u a:hover{
+    color: rgb(207, 14, 14);
+}
+.section{
+    display: flex;
+    gap: 60px;
+    padding-left: 50px;
+
+    align-items: center;
+    background-color: rgba(130, 201, 187, 0.879);
+    
+}
+.section img{
+    width: 400px;
+    height: 400px;
+    padding: 40px;
+    object-fit: cover;
+    border-radius: 50px;
+    
+}
+.p1{
+    margin: 20px;
+    font-size: 20px;
+}
+.h1{
+margin: 20px;
+font-size:35px ;
+}
+.b1{
+    margin-left: 20px;
+    width: 100%;
+    background-color:rgb(2, 39, 40) ;
+    color: white;
+    padding: 8px;
+    
+    
+}
+
+.section-2 h2{
+    text-align: center;
+    margin: 50px;
+}
+
+.card {
+    background-color:rgb(170, 174, 174);
+    width: 200px;
+    height: 300px;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+    padding: 20px 20px;
+}
+.card img{
+    max-width: 100%;
+}
+.card h4{
+    text-align: center;
+}
+.card p{
+    text-align: center;
+}
+.card-div{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 60px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    
+    
+}
+.footer {
+    display: flex;
+    background-color: rgb(2, 39, 40);
+    gap: 30px;
+    color: white;
+  }
+  
+  .footer-ul-2 {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    margin-left: -40px;
+    gap: 10px;
+  }
+  .footer-ul-2 a {
+    text-decoration: none;
+    color: white;
+  }
+  .footer-ul {
+    margin-left: -25px;
+  }
+  .footer h2 {
+    border-bottom: 3px solid white;
+    width: 130px;
+  }
+  .contact {
+    padding-top: 30px;
+    margin: 0px;
+  }
+  .footer-div {
+    padding-left: 20px;
+  }
+  .footer-div3 {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+  }
+  .footer-text {
+    text-align: center;
+    color: white;
+    padding-bottom: 10px;
+    margin-bottom: -20px;
+  }
+  .border {
+    border: 1px solid gray;
+  }
+  .bg {
+    background-color: rgb(2, 39, 40);
+  }
+  .f
