@@ -27,7 +27,7 @@
 }
 .logo{
     width: 120px;
-    padding-top: 3px;
+    padding-top: 7px;
     margin-left: 25px;
 }
 .nav-u a:hover{
@@ -83,7 +83,7 @@ font-size:35px ;
 }
 .card img{
     width: 100%;
-    height: 200px;
+    height: 150px;
 }
 .card h4{
     text-align: center;
